@@ -1,0 +1,51 @@
+
+ 
+input{
+    width: 200px;
+    height: 35px;
+    transition: 0.2s;
+    margin-bottom: 29px;
+    background-color: rgb(255, 255, 255);
+    border: 0;
+    border-radius: 15px;
+}
+input:hover{
+    width: 210px;
+    
+}
+
+label{
+    color: white;
+    font-size:20px;
+    transition: 0.2s;
+    
+}
+label:hover{
+    font-size: 30px;
+}
+
+body{
+
+
+    text-align: center;
+    width: 1890px;
+    height: 1080px;
+    background-color: rgb(53, 53, 53);
+}
+button{
+    width: 250px;
+    height: 48px;
+    background-color: black;
+    color:rgb(255, 255, 255);
+    transition: 0.9s;
+    border: 0px;
+    border-radius: 18px;
+    
+}
+button:hover{
+    width: 300px;
+    cursor: pointer;
+    
+}
+
+
