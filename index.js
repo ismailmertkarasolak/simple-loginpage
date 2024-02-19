@@ -12,7 +12,7 @@ document.getElementById("mySubmit").onclick = function(){
         console.log("Login Successfully!");
         document.getElementById("logincheck").innerHTML = "Login Successfully!!"
         document.getElementById("myH1").innerHTML = "Hello "+ username;
-        window.location.href = "https://www.youtube.com/";
+        window.location.href = "https://ismailmertkarasolak.github.io/rackpaperScissors/";
     } else {
         console.log("Login Failed!! Try Again.");
         document.getElementById("logincheck").innerHTML = "Login Failed!! Try Again."
